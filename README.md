@@ -1,4 +1,6 @@
-[v0.0.3](https://github.com/littleflute/Bob-Dylan8/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/Bob-Dylan8/edit/master/README.md)
+
+[Bob Dylan & the Band/Royal Albert Hall](Bob Dylan & the Band/Royal Albert Hall) [108M]
 
 [https://littleflute.github.io/Bob-Dylan](https://littleflute.github.io/Bob-Dylan)
 
